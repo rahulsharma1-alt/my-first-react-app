@@ -1,0 +1,17 @@
+.text-input {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-size: 12px;
+    font-weight: 400;
+    border-radius: 8px;
+    border: 1px solid #C7C7C7;
+    outline: none;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.text-input:focus {
+    border-color: #007bff;
+}
